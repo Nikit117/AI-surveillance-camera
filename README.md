@@ -1,6 +1,6 @@
 # Surveillance Camera for Cashier
 This project is a surveillance camera system that detects when a cashier raises their hands in response to a potential threat, and sends an alert message with the exact GPS coordinates to a designated recipient via the Telegram API and also stores the culprit image in database as well it will create logs. The system also includes a feature to detect when someone approaches the camera at a certain point.
-* [Watch the video here 👆](https://www.linkedin.com/posts/activity-6941673746109714432-XHKC?utm_source=share&utm_medium=member_desktop)
+* [Watch the demo video here 👆](https://www.linkedin.com/posts/activity-6941673746109714432-XHKC?utm_source=share&utm_medium=member_desktop)
 ## Requirements
 * Python 3.x
 * Mediapipe 0.8.6 or higher
